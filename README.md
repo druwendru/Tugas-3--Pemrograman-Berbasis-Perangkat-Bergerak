@@ -33,9 +33,8 @@ Data yang ditampilkan sesuai dengan ketentuan soal, yaitu:
 
 ### Tampilan Utama
 
-> Tambahkan screenshot hasil aplikasi pada folder `Asset/`
+<img width="493" height="870" alt="Screenshot 2026-06-12 015713" src="https://github.com/user-attachments/assets/05d52f49-568a-4c7c-a863-6896f25daf86" />
 
-![Crypto Market](Asset/screenshot.png)
 
 ---
 
